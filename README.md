@@ -38,27 +38,7 @@ Una aplicación de escritorio desarrollada en **Java** con interfaz gráfica mod
 
 ---
 
-## 🚀 Instalación
 
-### 1. Clonar o Descargar el Proyecto
-```bash
-git clone https://github.com/tuusuario/carrosalquiler.git
-cd carrosalquiler
-```
-
-### 2. Compilar el Proyecto
-```bash
-javac -d bin src/**/*.java
-```
-
-### 3. Ejecutar la Aplicación
-```bash
-java -cp bin Main
-```
-
-O simplemente ejecuta desde tu IDE favorito (Eclipse, NetBeans, IntelliJ IDEA, VS Code).
-
----
 
 ## 📖 Uso
 
